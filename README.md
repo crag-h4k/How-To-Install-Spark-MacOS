@@ -1,4 +1,5 @@
 # How-To-Install-Spark-MacOS
+
 Beginner's Guide to installing Apache Spark for Machine Learning and AI on MacOS using Homebrew
 
 Macs are great but they can be buggy and sometimes have weird commands and configuration problems. This is the best way that I have found to install and run Spark without any weird bugs or configuration issues.
@@ -12,8 +13,8 @@ First off you need to install a package manager on your MacBook. A package manag
 
 2. First, you need to set up your console for development by installing Xcode command-line tools. You really need this Xcode command-line tools include common development and programming tools, utilities, and compilers, including make, GCC, clang, perl, svn, git, size, strip, strings, libtool, and cpp. Type the following command and hit enter:
  
- "xcode-select --install"
-  
+ '''xcode-select --install'''
+
 3. To install your package manager, Homebrew, type the following command and hit enter:
 
 "ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" "
