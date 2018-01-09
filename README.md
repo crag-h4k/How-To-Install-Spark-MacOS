@@ -37,7 +37,7 @@ First off you need to install a package manager on your MacBook. A package manag
 
 8. We're almost done! Lets make sure everything is up-to-date, enter:
 
-```brew upgrade --all```
+```brew upgrade```
 
 9. Launch in your terminal Spark by entering:
 
